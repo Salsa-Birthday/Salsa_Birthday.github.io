@@ -6,7 +6,7 @@
 
 body {
   /* background: #129292; */
-  background: url('img/monokrom.jpg');
+  background: url('monokrom.jpg');
   background-size: contain;
   display: grid;
   place-items: center;
